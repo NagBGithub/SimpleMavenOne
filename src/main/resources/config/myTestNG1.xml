@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Demo Suite" verbose="0" parallel="tests"
+	thread-count="100">
+
+
+	<test name="Test NG Methods" enabled="true">
+
+
+		<classes>
+			<class
+				name="TestPackage.HiWorld2" />
+		</classes>
+	</test>
+
+</suite>

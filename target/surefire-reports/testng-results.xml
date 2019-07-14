@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Demo Suite (0)" duration-ms="2" started-at="2019-07-13T15:56:10Z" finished-at="2019-07-13T15:56:10Z">
+    <groups>
+    </groups>
+    <test name="Test NG Methods" duration-ms="2" started-at="2019-07-13T15:56:10Z" finished-at="2019-07-13T15:56:10Z">
+      <class name="TestPackage.HiWorld2">
+        <test-method status="PASS" signature="a()[pri:0, instance:TestPackage.HiWorld2@b684286]" name="a" duration-ms="1" started-at="2019-07-13T15:56:10Z" finished-at="2019-07-13T15:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- TestPackage.HiWorld2 -->
+    </test> <!-- Test NG Methods -->
+  </suite> <!-- TestNG Demo Suite (0) -->
+  <suite name="TestNG Demo Suite" duration-ms="113" started-at="2019-07-13T15:56:09Z" finished-at="2019-07-13T15:56:09Z">
+    <groups>
+    </groups>
+    <test name="Test NG Methods" duration-ms="113" started-at="2019-07-13T15:56:09Z" finished-at="2019-07-13T15:56:09Z">
+      <class name="TestPackage.HelloWorld">
+        <test-method status="PASS" signature="b()[pri:0, instance:TestPackage.HelloWorld@2ff4f00f]" name="b" duration-ms="19" started-at="2019-07-13T15:56:09Z" finished-at="2019-07-13T15:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="b1()[pri:0, instance:TestPackage.HelloWorld@2ff4f00f]" name="b1" duration-ms="4" started-at="2019-07-13T15:56:09Z" finished-at="2019-07-13T15:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b1 -->
+        <test-method status="PASS" signature="b2()[pri:0, instance:TestPackage.HelloWorld@2ff4f00f]" name="b2" duration-ms="1" started-at="2019-07-13T15:56:09Z" finished-at="2019-07-13T15:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b2 -->
+      </class> <!-- TestPackage.HelloWorld -->
+    </test> <!-- Test NG Methods -->
+  </suite> <!-- TestNG Demo Suite -->
+</testng-results>
